@@ -1,5 +1,5 @@
 # AskMe
-AskMe is a Flutter based ChatBot project using ChatGPT with simple chat UI created for MobiTechWise.com 
+AskMe is a Flutter based ChatBot project using ChatGPT with simple chat UI created for MobiTechWise.com.
 Full details of the integration can be found in the following blog post
 https://mobitechwise.com/flutter/simple-chatgpt-integration-in-flutter-your-first-chatbot/
 
